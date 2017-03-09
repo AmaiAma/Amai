@@ -1,0 +1,82 @@
+html {
+	font-size: 10px;
+}
+.blog-masthead {
+	background-color: #88a5d8;
+}
+.navbar-brand {
+	float: relative;
+	height: 62px;
+	padding: 20px 20px;
+	font-size: 30px;
+	line-height: 20px;
+	font-family: 'Russo One', sans-serif;
+
+}
+.blog-nav-item {
+	position: relative;
+	display: inline-block;
+	padding: 20px;
+	font-weight: 500;
+	font-size: 16px;
+	color: #1a1a1c;
+	font-family: 'Russo One', sans-serif;
+
+}
+.navbar-default .navbar-brand {
+  color: #ffffff;
+}
+.blog-title {
+	margin-top: 30px;
+	margin-bottom: 0;
+	margin-left: 15px;
+	font-size: 60px;
+	font-weight: normal;
+	font-family: 'Neucha', cursive;
+}
+p {
+	font-family: 'Neucha', cursive;
+	margin-left: 15px;
+}
+nav {
+	display: block;
+}
+.row {
+margin-right: 15px;
+margin-left: 15px;
+border: solid;
+}
+.blog-main {
+	font-size: 18px;
+	line-height: 1.5;
+}
+body {
+	background-color: #f7f7ff;
+}
+
+table[Attributes Style] {
+	width: 100%;
+	border-spacing: 0px;
+}
+table {
+	display: table;
+	border-color: #685048;
+	background-color: #685048;
+}
+td {
+	display: table-cell;
+	vertical-align: inherit;
+}
+a {
+	color: #ffffff;
+    font-family:  'Neucha', cursive;
+    font-size: 20px;
+}
+tbody {
+	vertical-align: middle;
+	border-color: inherit;
+}
+tr{
+	vertical-align: inherit;
+	border-color: inherit;
+}
